@@ -1,2 +1,2 @@
 "HI"
-feature-B
+feature-b
